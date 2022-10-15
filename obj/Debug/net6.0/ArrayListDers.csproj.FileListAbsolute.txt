@@ -1,0 +1,15 @@
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\ArrayListDers\bin\Debug\net6.0\ArrayListDers.exe
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\ArrayListDers\bin\Debug\net6.0\ArrayListDers.deps.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\ArrayListDers\bin\Debug\net6.0\ArrayListDers.runtimeconfig.json
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\ArrayListDers\bin\Debug\net6.0\ArrayListDers.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\ArrayListDers\bin\Debug\net6.0\ArrayListDers.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\ArrayListDers\obj\Debug\net6.0\ArrayListDers.csproj.AssemblyReference.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\ArrayListDers\obj\Debug\net6.0\ArrayListDers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\ArrayListDers\obj\Debug\net6.0\ArrayListDers.AssemblyInfoInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\ArrayListDers\obj\Debug\net6.0\ArrayListDers.AssemblyInfo.cs
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\ArrayListDers\obj\Debug\net6.0\ArrayListDers.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\ArrayListDers\obj\Debug\net6.0\ArrayListDers.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\ArrayListDers\obj\Debug\net6.0\refint\ArrayListDers.dll
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\ArrayListDers\obj\Debug\net6.0\ArrayListDers.pdb
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\ArrayListDers\obj\Debug\net6.0\ArrayListDers.genruntimeconfig.cache
+C:\Users\Yusuf Tolunay\Desktop\PatikaAlistirma\ArrayListDers\obj\Debug\net6.0\ref\ArrayListDers.dll
